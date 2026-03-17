@@ -38,11 +38,4 @@ I'm Isadora, a backend developer working with Java and REST APIs.
 
 ---
 
-### 📫 Contact
-
-- GitHub: https://github.com/your-username
-- LinkedIn: (add if you want)
-
----
-
 ⭐ Feel free to explore my repositories and projects!
