@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Dora3003/Dora3003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Isadora, a backend developer working with Java and REST APIs.
 
-Here are some ideas to get you started:
+💻 **About me**
+- 🏢 IT Assistant at PicPay
+- ☕ Backend development with **Java**
+- 🔗 Building and maintaining **REST APIs**
+- 🎓 Student at **Instituto J&F**
+- 📚 Always learning more about software engineering and backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technologies & Tools
+
+- Java
+- Spring Boot
+- REST APIs
+- Git & GitHub
+- MongoDB
+- SQL
+
+---
+
+### 📚 Currently Learning
+
+- Advanced backend architecture
+- API performance and scalability
+- Cloud and distributed systems
+
+---
+
+### 🚀 Goals
+
+- Become a strong backend engineer
+- Build scalable and reliable APIs
+- Contribute to impactful software projects
+
+---
+
+### 📫 Contact
+
+- GitHub: https://github.com/your-username
+- LinkedIn: (add if you want)
+
+---
+
+⭐ Feel free to explore my repositories and projects!
